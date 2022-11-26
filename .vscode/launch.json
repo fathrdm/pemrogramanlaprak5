@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Iphan/OneDrive/Desktop/2210817120013_Fathiah Nuraisyah Radam_PraktikumPemrograman1Modul5",
+      "program": "c:/Users/Iphan/OneDrive/Desktop/2210817120013_Fathiah Nuraisyah Radam_PraktikumPemrograman1Modul5/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
